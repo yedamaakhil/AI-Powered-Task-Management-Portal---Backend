@@ -1,0 +1,8 @@
+.git/
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
+*.md
+.dockerignore
+**/.DS_Store
